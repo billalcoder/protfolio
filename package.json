@@ -17,6 +17,7 @@
     "react-dom": "^19.2.0",
     "react-parallax-tilt": "^1.7.313",
     "react-particle-image": "^1.0.2",
+    "react-typed": "^2.0.12",
     "recharts": "^3.4.1",
     "tailwindcss": "^4.1.17"
   },
